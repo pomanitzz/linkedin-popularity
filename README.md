@@ -18,7 +18,7 @@ Add a lot of new LinkedIn-contacts automatically.
     
     For example, if you use Chrome: press F12
  
-4. Copy all code from file: **simple.js**
+4. Copy all code from file: **simple.js** and paste code into browser console.
 
 5. Press Enter.
 
