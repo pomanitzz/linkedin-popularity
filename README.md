@@ -10,11 +10,11 @@ Add a lot of new LinkedIn-contacts automatically.
 
 2. Go to "My Network".
  
-    <img width="606" height="804" alt="MyNetwork" src="https://github.com/pomanitzz/linkedin-popularity/blob/master/resources/MyNetwork.jpg">
+    <img width="303" height="402" alt="MyNetwork" src="https://github.com/pomanitzz/linkedin-popularity/blob/master/resources/MyNetwork.jpg">
 
 3. Open "Console" in your browser. 
     
-    <img width="3072" height="1678" alt="console-browser" src="https://github.com/pomanitzz/linkedin-popularity/blob/master/resources/console-browser.png">
+    <img width="1000" height="500" alt="console-browser" src="https://github.com/pomanitzz/linkedin-popularity/blob/master/resources/console-browser.png">
     For example, if you use Chrome: press F12
  
 4. Copy all code from file: **simple.js**
