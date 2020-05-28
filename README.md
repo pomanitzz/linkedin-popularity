@@ -15,6 +15,7 @@ Add a lot of new LinkedIn-contacts automatically.
 3. Open "Console" in your browser. 
     
     <img width="700" height="350" alt="console-browser" src="https://github.com/pomanitzz/linkedin-popularity/blob/master/resources/console-browser.png">
+    
     For example, if you use Chrome: press F12
  
 4. Copy all code from file: **simple.js**
@@ -24,8 +25,11 @@ Add a lot of new LinkedIn-contacts automatically.
 After some time result:
 
 Before was 1137 connections:
+
 <img width="338" height="241" alt="before" src="https://github.com/pomanitzz/linkedin-popularity/blob/master/resources/before-connections.jpg">
+
 After have this result:
+
 <img width="338" height="241" alt="after" src="https://github.com/pomanitzz/linkedin-popularity/blob/master/resources/after-connections.jpg">
 
 
